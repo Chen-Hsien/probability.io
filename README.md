@@ -8,10 +8,11 @@ like Epic Skin is 0.01%, Rare Skin is 10% , Normal Skin is 60% etc...
 
 ---
 Architecture   
-FrontEnd
+FrontEnd 
 * TypeScript
 * ReactJS
-* NextJS
+* NextJS   
+ 
 BackEnd
 * Polygon
 * Infura
